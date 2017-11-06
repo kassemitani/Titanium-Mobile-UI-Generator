@@ -1,2 +1,2 @@
-# Titanium-UI-Generator-
-Titanium Drag Drop UI Generator  
+# Titanium Mobile UI Drag and Drop Website Generator
+Titanium Drag Drop UI Code Generator   
